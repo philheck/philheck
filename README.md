@@ -2,7 +2,7 @@
 
 **Be the reason someone wins.**
 
-Co-founder of [Sidekick Creative Company](https://sidekickcreativeco.com) — a purpose-driven digital marketing agency rooted in Arkansas. Building tools, systems, and strategies that help businesses show up clearly and grow.
+Managing Partner of [Sidekick Creative Company](https://sidekickcreativeco.com) - a purpose-driven digital marketing agency rooted in Arkansas. Building tools, systems, and strategies that help businesses show up clearly and grow.
 
 Currently accepting new client partnerships — [book a call](https://api.marketing-os.com/widget/booking/ZVMt0580kRoEA9aBKpnj) or [hello@sidekickcreativeco.com](mailto:hello@sidekickcreativeco.com)
 
