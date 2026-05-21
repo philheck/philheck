@@ -1,25 +1,23 @@
 # Phillip Heck
 
-**Be the reason someone wins.** Building tools for next-gen marketing and operations.
+**Be the reason someone wins.**
+
+Co-founder of [Sidekick Creative Company](https://sidekickcreativeco.com) — a purpose-driven digital marketing agency rooted in Arkansas. Building tools, systems, and strategies that help businesses show up clearly and grow.
+
+Currently accepting new client partnerships — [book a call](https://api.marketing-os.com/widget/booking/ZVMt0580kRoEA9aBKpnj) or [hello@sidekickcreativeco.com](mailto:hello@sidekickcreativeco.com)
 
 ---
 
-## What I'm building
+## Operating Framework
 
-**[Sidekick Creative Company](https://www.poweredbysidekick.com)** — a purpose-driven digital marketing company. We show up as an extension of your team, not a vendor.
+My AI collaboration guidelines are public — how I work with AI to get better output:
 
-**Currently accepting new client partnerships.** → [hello@poweredbysidekick.com](mailto:hello@poweredbysidekick.com)
-
----
-
-## Stack
-
-![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![](https://img.shields.io/badge/Claude-7C3AED?style=flat-square&logoColor=white) ![](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logoColor=white)
+[**system.md** ↗](https://github.com/philheck/system.md) — working relationship rules, written output standards, verification habits, and quality expectations.
 
 ---
 
 ## Connect
 
-- [poweredbysidekick.com](https://poweredbysidekick.com)
-- [LinkedIn / Phillip Heck](https://www.linkedin.com/in/phillipheck)
-- [hello@poweredbysidekick.com](mailto:hello@poweredbysidekick.com)
+- [sidekickcreativeco.com](https://sidekickcreativeco.com)
+- [LinkedIn](https://www.linkedin.com/in/phillipheck)
+- [hello@sidekickcreativeco.com](mailto:hello@sidekickcreativeco.com)
